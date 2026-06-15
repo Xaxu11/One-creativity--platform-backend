@@ -1,5 +1,5 @@
 {
-  "name": "one-creativity--platform-backend",
+  "name": "one-creativity-platform-backend",
   "version": "1.0.0",
   "description": "Backend for OneCreativity service platform",
   "main": "src/server.js",
@@ -7,18 +7,10 @@
     "dev": "nodemon src/server.js",
     "start": "node src/server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Xaxu11/one-creativity--platform-backend.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/Xaxu11/one-creativity--platform-backend/issues"
-  },
-  "homepage": "https://github.com/Xaxu11/one-creativity--platform-backend#readme",
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
